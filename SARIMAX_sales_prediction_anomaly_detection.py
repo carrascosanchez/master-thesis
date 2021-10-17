@@ -11,12 +11,6 @@
 # ## Data loading and cleaning
 # ### Sales data load
 
-# In[1]:
-
-
-get_ipython().system('pip install --upgrade pip')
-
-
 # In[2]:
 
 
